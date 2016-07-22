@@ -1,2 +1,3 @@
 # team-project
-Yo!
+Developers on the project include:
+- Bob
